@@ -23,7 +23,7 @@ https://discord.gg/unSddKm
 
 Run your own bot by following the instructions below.
 
-## Installation
+## Installations
 
     pip install cathy
     
